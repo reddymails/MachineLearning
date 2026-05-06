@@ -1,0 +1,11 @@
+conda create --name myenvironment python numpy pandas
+
+(base) C:\Users\rreddy>conda info --envs
+# conda environments:
+#
+# * -> active
+# + -> frozen
+base                 *   C:\Users\rreddy\AppData\Local\miniconda3
+myenvironment            C:\Users\rreddy\AppData\Local\miniconda3\envs\myenvironment
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
